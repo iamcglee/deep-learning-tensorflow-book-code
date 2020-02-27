@@ -1,5 +1,6 @@
 Master Branch + Hotfix2 Branch
 Lee Chang-Gun Added somthing to test the sourcetree version control.
+Edit on GitHub
 
 
 # 『텐서플로로 배우는 딥러닝』 GitHub Repository
