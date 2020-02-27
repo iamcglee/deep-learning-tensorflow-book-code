@@ -1,4 +1,4 @@
-Lee deleted one line from master and added another line on hotfix2.
+Hotfix2 branch
 Lee Chang-Gun Added somthing to test the sourcetree version control.
 
 
