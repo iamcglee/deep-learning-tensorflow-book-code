@@ -1,4 +1,4 @@
-Lee Chang-Gun Added one more line on hotfix branch.
+Lee Chang-Gun Replaced Added one line from hotfix branch to hotfix2.
 Lee Chang-Gun Added somthing to test the sourcetree version control.
 
 
